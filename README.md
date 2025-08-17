@@ -1,4 +1,4 @@
-![talktodb1](https://github.com/user-attachments/assets/9f3a2ca9-eebd-483b-b59f-eb6f7732657d)# Talk to your Database
+### Talk to Your Database
 
 A web application that allows users to query a MySQL database in plain English using AI-powered natural language processing.  
 Built with **React (Vite)** for the frontend, **FastAPI** for the backend, and integrates with LLM APIs (e.g., Gemini or OpenRouter) to convert plain English queries into SQL.
