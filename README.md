@@ -18,14 +18,14 @@ Built with **React (Vite)** for the frontend, **FastAPI** for the backend, and i
 
 ### Main Interface
 
-![Talk to your Database Main Screenshot](talktodb1.png)
+![Talk to your Database Main Screenshot](talktodb1.jpeg)
 
 ### Example Query
 
-![Talk to your Database Query Example](talktodb2.png)
-![Talk to your Database Output Example](talktodb3.png)
-![Talk to your Database Query Example](talktodb4.png)
-![Talk to your Database Query Example](talktodb5.png)
+![Talk to your Database Query Example](talktodb2.jpeg)
+![Talk to your Database Output Example](talktodb3.jpeg)
+![Talk to your Database Query Example](talktodb4.jpeg)
+![Talk to your Database Query Example](talktodb5.jpeg)
 
 ---
 
