@@ -108,12 +108,6 @@ TalkToDB/
 
 ---
 
-## License
-
-[MIT License](LICENSE)
-
----
-
 ## Credits
 
 Made by [Gayathri G](https://github.com/GAYATHRI1006)  
