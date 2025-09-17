@@ -1,18 +1,4 @@
 
-## Talk to Your Database
-
-A web application that allows users to query a MySQL database in plain English using AI-powered natural language processing.  
-Built with **React (Vite)** for the frontend, **FastAPI** for the backend, and integrates with LLM APIs (e.g., Gemini or OpenRouter) to convert plain English queries into SQL.
-
----
-
-
-## Features
-
-- **Natural Language to SQL**: Enter questions in English and get results from your MySQL database.
-- **Modern Stack**: React (Vite) frontend, FastAPI backend, MySQL database.
-- **AI Integration**: Uses LLMs (e.g. Gemini, OpenRouter) to translate user queries into SQL.
-- **Easy Setup**: Works locally or can be deployed for free using Render, Vercel, and a free MySQL hosting provider.
 
 ---
 
